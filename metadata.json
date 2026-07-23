@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot Assistant",
+  "description": "An accurate, high-performance AI Chatbot powered by Gemini with web search grounding and conversation management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
